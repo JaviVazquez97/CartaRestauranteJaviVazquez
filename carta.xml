@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<food>
+    <!--PrimerPlato-->
+    <comida grupo="Individual">
+      <nombre>Menú individual de alitas </nombre>
+      <precio>Precio: 8,29€</precio>
+      <desc>8 alitas, Patatas fritas, Lata de refresco</desc>
+      <calorías>Valor nutricional 1552kal</calorías>
+      <caracteristicas><item>picante</item></caracteristicas>
+    </comida>
+    <!--SegundoPlato-->
+    <comida grupo="Individual">
+      <nombre>Menú individual de tiras de pechuga </nombre>
+      <precio>Precio: 6,99€</precio>
+      <desc>3 tiras, Patatas fritas, Lata de refresco, 1 salsa</desc>
+      <calorías>Valor nutricional 749kal</calorías>
+      <caracteristicas></caracteristicas>
+    </comida>
+    <!--TercerPlato-->
+    <comida grupo="Individual">
+      <nombre>Menú individual de piezas </nombre>
+      <precio>Precio: 6,99€</precio>
+      <desc>2 piezas, Patatas fritas, Lata de refresco</desc>
+      <calorías>Valor nutricional 1000kal</calorías>
+      <caracteristicas></caracteristicas>
+    </comida>
+    <!--CuartoPlato-->
+    <comida grupo="Individual">
+      <nombre>Menú individual double Cheese Burger </nombre>
+      <precio>Precio: 7,79€</precio>
+      <desc>Hamburguesa Cheese burger Doble, Patatas fritas, Lata de refresco</desc>
+      <calorías>Valor nutricional 1320kal</calorías>
+      <caracteristicas><item>gluten</item></caracteristicas>
+    </comida>
+    <!--QuintoPlato-->
+    <comida grupo="Individual">
+      <nombre>Menú individual Mixto </nombre>
+      <precio>Precio: 9,99€</precio>
+      <desc>2 piezas,4 Alitas, Patatas fritas, Lata de refresco</desc>
+      <calorías>Valor nutricional 1000kal</calorías>
+      <caracteristicas><item>picante</item></caracteristicas>
+    </comida>
+    <!--SextoPlato-->
+    <comida grupo="ParaDos">
+      <nombre> Turk and share de delicias de pollo </nombre>
+      <precio>Precio: 17,29€</precio>
+      <desc>16 delicias de pollo, 2 Patatas fritas, 2 Lata de refresco</desc>
+      <calorías>Valor nutricional 2860kal</calorías>
+      <caracteristicas></caracteristicas>
+    </comida>
+    <!--SeptimoPlato-->
+    <comida grupo="ParaDos">
+      <nombre>Turk and share Mixto </nombre>
+      <precio>Precio: 17,29€</precio>
+      <desc>5 piezas, 5 Alitas, 2 Patatas fritas, 2 Lata de refresco</desc>
+      <calorías>Valor nutricional 3200kal</calorías>
+      <caracteristicas><item>picante</item></caracteristicas>
+    </comida>
+    <!--OctavoPlato-->
+    <comida grupo="ParaDos">
+      <nombre>Turk and share de piezas </nombre>
+      <precio>Precio: 16,29€</precio>
+      <desc>6 piezas, 2 Patatas fritas, 2 Lata de refresco</desc>
+      <calorías>Valor nutricional 2900kal</calorías>
+      <caracteristicas></caracteristicas>
+    </comida>
+    <!--NovenoPlato-->
+    <comida grupo="ParaDos">
+      <nombre> Turk and share de tiras </nombre>
+      <precio>Precio: 16,29€</precio>
+      <desc>6 tiras, 2 Patatas fritas, 2 Lata de refresco</desc>
+      <calorías>Valor nutricional 2900kal</calorías>
+      <caracteristicas></caracteristicas>
+    </comida>
+    <!--DecimoPlato-->
+    <comida grupo="ParaDos">
+      <nombre> Turk and share de Alitas </nombre>
+      <precio>Precio: 14,99€</precio>
+      <desc>16 Alitas de pollo, 2 Patatas fritas, 2 Lata de refresco</desc>
+      <calorías>Valor nutricional 2500kal</calorías>
+      <caracteristicas><item>picante</item></caracteristicas>
+    </comida>
+    <!--DecimoPrimero-->
+    <comida grupo="ParaCompartir">
+      <nombre> Menú Super Bucket de Tiras </nombre>
+      <precio>Precio: 18,29€</precio>
+      <desc>20 tiras, 4 Patatas fritas, 4 Lata de refresco, salsa</desc>
+      <calorías>Valor nutricional 3500kal</calorías>
+      <caracteristicas></caracteristicas>
+    </comida>
+    <!--DecimoSegundo-->
+    <comida grupo="ParaCompartir">
+      <nombre> Menú Family Combo </nombre>
+      <precio>Precio: 29,99€</precio>
+      <desc>6 tiras, 8 Alitas, 4 Patatas fritas, 4 Lata de refresco, 2 twister, 2 Original Burger, salsa</desc>
+      <calorías>Valor nutricional 6000kal</calorías>
+      <caracteristicas><item>burger </item><item>picante</item></caracteristicas>
+    </comida>
+      <!--DecimoTercero-->
+    <comida grupo="ParaCompartir">
+      <nombre> Menú Super Bucket de piezas </nombre>
+      <precio>Precio: 29,99€</precio>
+      <desc> 12 piezas, 4 Patatas fritas, 4 Lata de refresco, salsa</desc>
+      <calorías>Valor nutricional 3300kal</calorías>
+      <caracteristicas></caracteristicas>
+    </comida>
+      <!--DecimoCuarto-->
+    <comida grupo="ParaCompartir">
+      <nombre> Menú Super Bucket de Alitas </nombre>
+      <precio>Precio: 29,99€</precio>
+      <desc> 24 Alitas, 4 Patatas fritas, 4 Lata de refresco, salsa</desc>
+      <calorías>Valor nutricional 3100kal</calorías>
+      <caracteristicas><item>picante</item></caracteristicas>
+    </comida>
+      <!--DecimoQuinto-->
+    <comida grupo="ParaCompartir">
+      <nombre> Menú Super Bucket de delicias de pollo </nombre>
+      <precio>Precio: 29,99€</precio>
+      <desc> 34 delicias, 4 Patatas fritas, 4 Lata de refresco, salsa</desc>
+      <calorías>Valor nutricional 3600kal</calorías>
+      <caracteristicas></caracteristicas>
+    </comida>
+     <!--DecimoSexto-->
+     <comida grupo="Ofertas">
+      <nombre> El doblete </nombre>
+      <precio>Precio: 7,00€</precio>
+      <desc> 2 Twister, 2 Patatas fritas, 2 Lata de refresco, salsa</desc>
+      <calorías>Valor nutricional 1200kal</calorías>
+      <caracteristicas><item>gluten</item></caracteristicas>
+    </comida>
+      <!--DecimoSeptimo-->
+     <comida grupo="Ofertas">
+      <nombre> Box mediano </nombre>
+      <precio>Precio: 6,60€</precio>
+      <desc> Doble Krunch, 2 Tiras, Patatas fritas, refresco, helado</desc>
+      <calorías>Valor nutricional 1500kal</calorías>
+      <caracteristicas><item>burger </item><item>postre</item></caracteristicas>
+    </comida>
+         <!--DecimoOctavo-->
+     <comida grupo="Ofertas">
+      <nombre> Menú ahorro Burger </nombre>
+      <precio>Precio: 3,99€</precio>
+      <desc> Doble Krunch, Patatas fritas, refresco</desc>
+      <calorías>Valor nutricional 1100kal</calorías>
+      <caracteristicas><item>gluten </item><item>burger</item></caracteristicas>
+    </comida>
+        <!--DecimoNoveno-->
+     <comida grupo="Ofertas">
+      <nombre> Menú Twister </nombre>
+      <precio>Precio: 4,99€</precio>
+      <desc> Twister, Patatas fritas, refresco</desc>
+      <calorías>Valor nutricional 1000kal</calorías>
+      <caracteristicas><item>gluten</item></caracteristicas>
+    </comida>
+         <!--Bigesimo-->
+     <comida grupo="Ofertas">
+      <nombre> Menú Infantil </nombre>
+      <precio>Precio: 3,99€</precio>
+      <desc> 2 Tiras, Patatas fritas, zumo, postre, juguete</desc>
+      <calorías>Valor nutricional 1200kal</calorías>
+      <caracteristicas><item>infantil </item><item>postre</item></caracteristicas>
+    </comida>
+</food>
